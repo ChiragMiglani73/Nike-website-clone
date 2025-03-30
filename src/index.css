@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Palanquin:wght@100;200;300;400;500;600;700&display=swap");
+/*<div className="absolute bottom-[-30px] left-1/2 transform -translate-x-1/2 flex gap-4">
+<div className="w-20 h-20 bg-blue-200 flex items-center justify-center rounded-lg shadow-md">
+  <img src={heroShoe} alt="Shoe" className="w-16" />
+</div>
+<div className="w-20 h-20 bg-red-100 border-red-500 border-2 flex items-center justify-center rounded-lg shadow-md">
+  <img src={heroShoe} alt="Shoe" className="w-16" />
+</div>
+<div className="w-20 h-20 bg-gray-200 flex items-center justify-center rounded-lg shadow-md">
+  <img src={heroShoe} alt="Shoe" className="w-16" />
+</div>
+</div>*/
+
+@layer utilities {
+  .text-slate-gray {
+    color: #708090; /* Slate Gray */
+  }
+}
