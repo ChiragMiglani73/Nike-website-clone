@@ -1,5 +1,6 @@
 import React from "react";
 import "./index.css";
+import "./App.css";
 import Nav from './components/Nav';
 import Hero from './sections/Hero';
 import PopularProducts from './sections/PopularProducts';
