@@ -1,16 +1,12 @@
 {
   "name": "nike",
-  "homepage": "https://ChiragMiglani73.github.io/Nike-new/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy":"gh-pages -d dist"
+    "lint": "eslint ."
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.13",
