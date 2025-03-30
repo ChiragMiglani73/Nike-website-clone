@@ -1,10 +1,10 @@
-Nike Frontend Website
+###Nike Frontend Website
 
-Overview
+##Overview
 
 This is a modern frontend website for Nike, built using React with Vite and styled using TailwindCSS. The project aims to provide a sleek, responsive, and fast-loading user experience.
 
-Features
+##Features
 
 Fast Performance: Uses Vite for lightning-fast development and build times.
 
@@ -14,7 +14,7 @@ Modern UI/UX: A clean and dynamic design inspired by Nike's brand aesthetics.
 
 Component-Based Architecture: Modular and reusable components for easy scalability.
 
-Tech Stack
+##Tech Stack
 
 React: A JavaScript library for building UI components.
 
